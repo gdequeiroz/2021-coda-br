@@ -1,6 +1,6 @@
 # Ferramentas para mitigar vieses em IA
 
-Por: Gabriela de Queiroz e Paola Magalhães
+Por: Gabriela de Queiroz e Paolla Magalhães
 
 Este repositório contém os materiais para o workshop "Ferramentas para mitigar vieses em IA".
 
