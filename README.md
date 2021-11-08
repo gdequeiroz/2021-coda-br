@@ -26,8 +26,8 @@ Como pré-requisito para este workshop, é necessário conhecimento básico de P
 
 ## Materiais
 
-- Slides: 
-- Dataset:
-- Notebook:
+- Slides: [slides](https://docs.google.com/presentation/d/150l1sgB5W7Vdtq5P7-ktGtkx-WHvR2iY9RN7MmXX0Ro/edit?usp=sharing)
+- Dataset: [adult.csv](adult.csv)
+- Notebook: [tutorial-AIF360.ipynb](/tutorial-AIF360.ipynb)
 
 
